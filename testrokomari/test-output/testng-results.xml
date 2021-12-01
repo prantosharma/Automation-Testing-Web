@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-27T16:02:24Z" name="Default suite" finished-at="2021-11-27T16:05:59Z" duration-ms="214548">
+    <groups>
+    </groups>
+    <test started-at="2021-11-27T16:02:24Z" name="Default test" finished-at="2021-11-27T16:05:59Z" duration-ms="214548">
+      <class name="autotest.testrokomari.testbasic">
+        <test-method is-config="true" signature="opendriver()[pri:0, instance:autotest.testrokomari.testbasic@25aca718]" started-at="2021-11-27T16:02:23Z" name="opendriver" finished-at="2021-11-27T16:02:24Z" duration-ms="1428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opendriver -->
+        <test-method signature="rokomari()[pri:0, instance:autotest.testrokomari.testbasic@25aca718]" started-at="2021-11-27T16:02:24Z" name="rokomari" finished-at="2021-11-27T16:05:59Z" duration-ms="214526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rokomari -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:autotest.testrokomari.testbasic@25aca718]" started-at="2021-11-27T16:05:59Z" name="closedriver" finished-at="2021-11-27T16:05:59Z" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- autotest.testrokomari.testbasic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
