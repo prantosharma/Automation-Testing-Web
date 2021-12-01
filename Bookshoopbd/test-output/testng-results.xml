@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-30T16:13:23Z" name="Default suite" finished-at="2021-11-30T16:13:56Z" duration-ms="32449">
+    <groups>
+    </groups>
+    <test started-at="2021-11-30T16:13:23Z" name="Default test" finished-at="2021-11-30T16:13:56Z" duration-ms="32449">
+      <class name="test.Bookshoopbd.bookshop">
+        <test-method is-config="true" signature="opendriver()[pri:0, instance:test.Bookshoopbd.bookshop@6f3c660a]" started-at="2021-11-30T16:13:21Z" name="opendriver" finished-at="2021-11-30T16:13:23Z" duration-ms="2281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opendriver -->
+        <test-method signature="bookshopbd()[pri:0, instance:test.Bookshoopbd.bookshop@6f3c660a]" started-at="2021-11-30T16:13:23Z" name="bookshopbd" finished-at="2021-11-30T16:13:56Z" duration-ms="32414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookshopbd -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:test.Bookshoopbd.bookshop@6f3c660a]" started-at="2021-11-30T16:13:56Z" name="closedriver" finished-at="2021-11-30T16:13:56Z" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- test.Bookshoopbd.bookshop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
